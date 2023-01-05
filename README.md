@@ -1,6 +1,7 @@
 ## <div align="center"> Hi 👋 I'm Aditya </div>
 ### <div align="center"> A Computer Science Student </div>
-- I'm currently learning: Java and Python
+- 🌱 I'm currently learning: Java and Python
+- ⚡ I'm familiar with: C, JavaScript, TypeScript, Mips Assembly
 
 
 <!--
