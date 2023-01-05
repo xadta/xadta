@@ -1,4 +1,7 @@
-### Hi there 👋
+### <div align="center"> Hi 👋 I'm Aditya </div>
+## <div align="center"> A Computer Science Student </div>
+- I'm currently learning: Java and Python
+
 
 <!--
 **xadta/xadta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
