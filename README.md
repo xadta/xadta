@@ -1,7 +1,6 @@
 ## <div align="center"> Hi 👋 I'm Aditya </div>
-### <div align="center"> A 2nd Year Computer Science Student </div>
-- 🌱 I'm currently learning: Java and Python
-- ⚡ I'm familiar with: C, NodeJS, TypeScript, and MIPS Assembly
+### <div align="center"> A 3rd Year Computer Science Student </div>
+- ⚡ I'm familiar with: Python, C++, C, NodeJS, ReactJS, TypeScript, and MIPS Assembly
 
 
 <!--
